@@ -21,7 +21,8 @@
 						<div class="elementor-element elementor-element-b133feb jltma-glass-effect-no elementor-widget elementor-widget-text-editor" data-id="b133feb" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-text-editor elementor-clearfix">
-				<div>La présence d&rsquo;une maladie <a href="https://frenchyfreeze.com/huile-au-cbd.html">chronique</a>, d&rsquo;une dépendance à l’alcool, tabac ou à d&rsquo;autres substances utilisées pour calmer l&rsquo;anxiété sont des facteurs favorables au développement de la dépression.</div><div> </div><div>La dépression est l&rsquo;un des troubles mentaux les plus courants, à tout âge mais elle est plus fréquente auprès des adultes. Cette maladie touche aussi les enfants en majorité les adolescents. Près de 8 % des adolescents âgés de 12 à 18 ans souffrent de dépression.</div>					</div>
+				<div>La présence d&rsquo;une maladie <a href="https://frenchyfreeze.com/huile-au-cbd.html"><a href="https://frenchyfreeze.com/" class="cbd lyon">
+ CBD Lyon</a>n: chronique</a>, d&rsquo;une dépendance à l’alcool, tabac ou à d&rsquo;autres substances utilisées pour calmer l&rsquo;anxiété sont des facteurs favorables au développement de la dépression.</div><div> </div><div>La dépression est l&rsquo;un des troubles mentaux les plus courants, à tout âge mais elle est plus fréquente auprès des adultes. Cette maladie touche aussi les enfants en majorité les adolescents. Près de 8 % des adolescents âgés de 12 à 18 ans souffrent de dépression.</div>					</div>
 						</div>
 				</div>
 						</div>
