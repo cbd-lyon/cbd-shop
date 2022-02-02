@@ -1,6 +1,7 @@
 # cbd-shop
 
-<h1> CBD Shop Lyon </h1>
+<h1>      <a href="https://frenchyfreeze.com/" class="cbd lyon">
+ CBD Lyon</a> </h1>
 			
    <h2 class="elementor-heading-title elementor-size-default">QUELLES SONT LES CAUSES ?
 </h2>		</div>
